@@ -28,13 +28,13 @@ FlowBlaze is a modern frontend React application allowing users to visually desi
 ### Installation & Running
 
 #### Frontend
-Navigate to the `/frontend` directory and run:
+Navigate to the `/frontend` directory and run: npm start command
 
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the app. The page will reload on code changes.
+Open [http://localhost:3000] in your browser to view the app. The page will reload on code changes.
 
 #### Backend
-Navigate to the `/backend` directory and run:
+Navigate to the `/backend` directory and run: uvicorn main:app --reload
 
 
 This launches the backend API server with live reload for changes.
